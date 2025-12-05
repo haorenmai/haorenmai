@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Incoming PhD Student in Mathematics, The Hong Kong University of Science and Technology, 2026
-  Supervisor: Jian-Feng Cai
+  * Supervisor: Professor Jian-Feng Cai
 * BSc in Mathematics, Wuhan University
-
+  * GPA: 3.94 / 4.00, Rank: 2 / 252
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
