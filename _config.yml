@@ -13,7 +13,7 @@ title                    : "Haoren Mai"
 title_separator          : "-"
 name                     : &name "Haoren Mai" # Your Name
 description              : &description "Haoren Mai"   # Updated based on your research interest
-url                      : https://haorenmai.github.io # **UPDATE THIS** e.g., "https://[your GitHub username].github.io"
+url                      : "https://haorenmai.github.io" # **UPDATE THIS** e.g., "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g., "/blog"
 repository               : "haorenmai/haorenmai.github.io" # **UPDATE THIS** to your repo name
 
