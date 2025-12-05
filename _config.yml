@@ -19,7 +19,7 @@ repository: "haorenmai/haorenmai.github.io"
 
 # Site Author
 author:
-  avatar: "assets/5302787a3a804696a64350ef402af2a6.png" # 确认文件存在
+  avatar:  # 确认文件存在
   name: "Haoren Mai"
   pronouns: ""  
   bio: "Short biography for the left-hand sidebar"
