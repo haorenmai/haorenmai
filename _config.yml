@@ -23,7 +23,7 @@ repository               : "haorenmai/haorenmai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "5302787a3a804696a64350ef402af2a6.png"
+  avatar           : "assets/5302787a3a804696a64350ef402af2a6.png"
   name             : "Haoren Mai"
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
