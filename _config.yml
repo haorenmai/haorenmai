@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : # "assets/5302787a3a804696a64350ef402af2a6.png"
   name             : "Haoren Mai"
   pronouns         : # example: "she/her"  
   bio              : "Chinese."
