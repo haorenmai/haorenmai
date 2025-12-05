@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll! 
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,39 +9,37 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Haoren Mai"
+title                    : "Haoren Mai / Academic Portfolio" # Updated with your name
 title_separator          : "-"
-name                     : &name "Haoren Mai"
-description              : &description "Haoren Mai's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://haorenmai.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+[cite_start]name                     : &name "Haoren Mai" # Your Name [cite: 1]
+[cite_start]description              : &description "Haoren Mai's academic portfolio on Mathematical Algorithms and Theory in Artificial Intelligence"   # Updated based on your research interest [cite: 5]
+url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "haorenmai/haorenmai.github.io"
+baseurl                  : "" # the subpath of your site, e.g., "/blog"
+repository               : "academicpages/academicpages.github.io" # Update this to your repo name
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.png" # Place your profile image in the /images/ folder and update this name
+  [cite_start]name             : "Haoren Mai" # Sidebar Name [cite: 1]
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Wuhan, China"
-  employer         : "Wuhan University"
-  uri              : # URL
-  email            : "houyanmak@gmail.com" 
-
-  # Academic websites
+  [cite_start]bio              : "Incoming PhD student in Mathematics at The Hong Kong University of Science and Technology (HKUST) [cite: 4, 5][cite_start], specializing in Mathematical Algorithms and Theory in Artificial Intelligence[cite: 5]." # Short biography based on CV
+  [cite_start]location         : "Wuhan, China" # Current location [cite: 2]
+  [cite_start]employer         : "The Hong Kong University of Science and Technology" # Incoming institution [cite: 4, 5]
+  uri              : # URL - Update with your personal website link
+  email            : "none@example.org" # **UPDATE WITH YOUR EMAIL** # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL - Clear placeholder
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL - Clear placeholder
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL - Clear placeholder
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +49,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "yourusername" # **UPDATE WITH YOUR GITHUB USERNAME**
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username - Clear placeholder
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # Username - Update with your username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +72,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # Username for X / Twitter - Update with your username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
