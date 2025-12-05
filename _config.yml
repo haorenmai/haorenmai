@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" 
-title                    : "Haoren Mai / Academic Portfolio"
+title                    : "Haoren Mai"
 title_separator          : "-"
 name                     : &name "Haoren Mai" # Your Name
-description              : &description "Haoren Mai's academic portfolio on Mathematical Algorithms and Theory in Artificial Intelligence"   # Updated based on your research interest
+description              : &description "Haoren Mai's academic portfolio"   # Updated based on your research interest
 url                      : https://academicpages.github.io # **UPDATE THIS** e.g., "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g., "/blog"
-repository               : "academicpages/academicpages.github.io" # **UPDATE THIS** to your repo name
+repository               : "haorenmai/haorenmai.github.io" # **UPDATE THIS** to your repo name
 
 # Site Author
 author:
@@ -23,9 +23,9 @@ author:
   avatar           : "profile.png" # Place your profile image in the /images/ folder
   name             : "Haoren Mai" # Sidebar Name
   pronouns         : # example: "he/him"  
-  bio              : "Incoming PhD student in Mathematics at The Hong Kong University of Science and Technology (HKUST), specializing in Mathematical Algorithms and Theory in Artificial Intelligence." # Short biography based on CV
-  location         : "Wuhan, China" # Current location (based on address)
-  employer         : "The Hong Kong University of Science and Technology" # Incoming institution
+  bio              : "Chinese." # Short biography based on CV
+  location         : "China" # Current location (based on address)
+  employer         : "Wuhan University" # Incoming institution
   uri              : # URL - Update with your personal website link
   email            : "none@example.org" # **UPDATE WITH YOUR EMAIL** # Academic websites
   academia         : # URL
