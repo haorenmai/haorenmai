@@ -15,6 +15,12 @@ Bio
 ======
 I am currently a fourth-year undergraduate student at Wuhan University, and I have received a conditional offer for the PhD program at HKUST, where I will be supervised by [Professor Jian-Feng Cai](https://www.math.hkust.edu.hk/~jfcai/). My research interests focus on Machine Learning, Artificial Intelligence and Signal Processing.
 
+Contact
+======
+* WeChat mh201707201711
+* QQ 2814303480
+* Email houyanmak@whu.edu.cn
+
 Education
 ======
 * Incoming PhD Student in Mathematics, 2026
