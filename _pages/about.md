@@ -13,7 +13,7 @@ Hello, this is Haoren Mai (麦皓仁)'s Homepage!
 
 Bio
 ======
-I am currently a fourth-year undergraduate student at Wuhan University, and I have received a conditional offer for the PhD program at HKUST, where I will be supervised by [Professor Jian-Feng Cai]((https://www.math.hkust.edu.hk/~jfcai/). My research interests focus on Machine Learning, Artificial Intelligence and Signal Processing.
+I am currently a fourth-year undergraduate student at Wuhan University, and I have received a conditional offer for the PhD program at HKUST, where I will be supervised by [Professor Jian-Feng Cai](https://www.math.hkust.edu.hk/~jfcai/). My research interests focus on Machine Learning, Artificial Intelligence and Signal Processing.
 
 Education
 ======
