@@ -49,3 +49,13 @@ Undergraduate Courses Attended
 * Differential Geometry (99), Riemannian Geometry (93), Topology (98)
 * Mathematical Logic (100), Abstract Algebra (92)
 * C Programming Language (94), Python and Algorithmic Thinking (95), Database Technology (92)
+
+Gaokao
+======
+My Gaokao score was 655, ranking 1,449th out of 399,216 physics-track candidates in Guangdong Province in 2022.
+Note: In the 2022 Guangdong Gaokao system, students were required to choose either Physics or History as a compulsory subject, resulting in two separate candidate categories: Physics-track and History-track.
+
+Tutor, or Kaiban (开班)
+======
+I have provided paid tutoring services to multiple students, primarily in university-level mathematics courses such as Calculus, Partial Differential Equations, and Numerical Analysis. My students have consistently given highly positive feedback regarding my teaching effectiveness.
+If you are interested, feel free to contact me. I am also available to tutor high school subjects across all areas.
