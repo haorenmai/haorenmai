@@ -53,6 +53,7 @@ Undergraduate Courses Attended
 Gaokao
 ======
 My Gaokao score was 655, ranking 1,449th out of 399,216 physics-track candidates in Guangdong Province in 2022.
+
 Note: In the 2022 Guangdong Gaokao system, students were required to choose either Physics or History as a compulsory subject, resulting in two separate candidate categories: Physics-track and History-track.
 
 Tutor, or Kaiban (开班)
