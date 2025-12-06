@@ -42,7 +42,7 @@ Awards
 
 Undergraduate Courses Attended
 ======
-* Mathematical Analysis I (100) & II (100) & III (94), Advanced Algebra and Analytic Geometry I (87) & II (94)
+* Mathematical Analysis I (100) & II (100) & III (94), Advanced Algebra and Analytic Geometry I (87) & II (93)
 * Complex Analysis (96), Real Analysis (94), Functional Analysis (96), Ordinary Differential Equation (97), Pratial Differential Equation (91)
 * Numerical Analysis (100), Numerical Linear Algebra (96), Neural Network and Deep Learning (99)
 * Probability Theory (94), Stochastic Processes (97)
