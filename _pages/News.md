@@ -35,7 +35,7 @@ July 3, 2025 - August 6, 2025
 My First Shanghai Trip
 ------
 Shanghai, China  
-May 29, 2025 - June 1, 2025
+May 29, 2025 - June 1, 2025  
 Nanjing Road, The Bund, Shanghai Jiao Tong University (Minhang Campus), Lujiazui, the Official LV of Gakuen Idolmaster
 
 
