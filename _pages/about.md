@@ -44,7 +44,7 @@ Awards
   * The Final of 16th Chinese Mathematics Competition for College Students
 * First Prize, No.16 in Hubei, 2024
   * 16th Chinese Mathematics Competition for College Students
-* Wuhan University Outstanding Student Fellowship, 2025, 2024, 2023
+* Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023
 
 Undergraduate Courses Attended
 ======
