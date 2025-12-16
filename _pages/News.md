@@ -39,11 +39,11 @@ May 29, 2025 - June 1, 2025
 I went to the bund and Lujiazui, and also went to Shanghai Jiao Tong University (Minhang Campus) to visit my high school classmate. Moreover, I attended the official LV of the live of Gakuen Idolmaster.
 
 
-The Final of the 16th CHinese Mathematics Competition for College Students
+The Final of the 16th Chinese Mathematics Competition for College Students
 ------
-Zhejiang Normal University
-Jinhua, Zhejiang, China  
-April 11, 2025 - April 13
+Zhejiang Normal University  
+Jinhua, Zhejiang, China    
+April 11, 2025 - April 13  
 I didn't perform very well and only got the national second prize, missing the first prize by just two points...... Anyway it is was a good university-funded trip, and we witnessed that Wandou was crowned the emperor of Kaiban and Shufen Gaodai.
 
 
