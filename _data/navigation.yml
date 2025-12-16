@@ -11,11 +11,11 @@ main:
   #- title: "Publications"
     #url: /publications/
 
-  - title: "News"
-    url: /News/
-
   - title: "Notes & Slides"
     url: /Notes_and_Slides/
+
+  - title: "Journeys"
+    url: /Journeys/
 
   #- title: "Talks"
   #  url: /talks/    
