@@ -66,5 +66,6 @@ SUSTech is good, and I met my high school classmate.
 Wuhan University Shenzhen Admissions Team
 ------
 Shenzhen, Guangdong, China
+
 June 25, 2024 - June 30, 2024
 
