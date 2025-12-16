@@ -66,3 +66,5 @@ Tutor, or Kaiban (开班)
 ======
 I have provided paid tutoring services to multiple students, primarily in university-level mathematics courses such as Calculus, Partial Differential Equations, and Numerical Analysis. My students have consistently given highly positive feedback regarding my teaching effectiveness.
 If you are interested, feel free to contact me. I am also available to tutor high school subjects across all areas.
+
+![FLAG](/assets/FLAG_2017)
