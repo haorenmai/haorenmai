@@ -30,6 +30,7 @@ Summer Research 2025, Department of Mathematics, HKUST
 ------
 Hong Kong SAR, China  
 July 3, 2025 - August 6, 2025
+My First Time Leaving Chinese Mainland
 
 
 My First Shanghai Trip
