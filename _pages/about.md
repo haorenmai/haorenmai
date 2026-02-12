@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 **English** 
-
 **[中文](https://haorenmai.github.io/haorenmai/zh)**
 
 Hello, I am Haoren Mai! I am currently a fourth-year undergraduate student in the School of Mathematics and Statistics at Wuhan University, with a GPA of 3.94/4.00, ranking 2/252. My research currently focuses on deep learning optimizers. 
