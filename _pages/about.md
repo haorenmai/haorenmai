@@ -17,19 +17,19 @@ Hello, I am Haoren Mai! I am currently a fourth-year undergraduate student in th
 Previously, I was a full-funded visiting student at HKUST during the summer of 2025.
 
 Selected Awards
-======
+---
 2nd Prize, 16th Chinese Mathematics Competition for College Students  
 Blue Moon Scholarship  
 Wuhan University Outstanding Student Scholarship  
 
 About Me
-======
+---
 Citizen: The People's Republic of China  
 Language: English(IELTS Band 6.5), Mandarin(Native), Cantonese(Native)  
 Visa: US(B1/B2 until 2036)  
 
 Contact
-======
+---
 WeChat mh201707201711  
 QQ 2814303480  
 Email houyanmak@whu.edu.cn  
