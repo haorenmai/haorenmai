@@ -30,7 +30,7 @@ Visa: US(B1/B2 until 2036)
 
 Contact
 ---
-WeChat mh201707201711  
-QQ 2814303480  
-Email houyanmak@whu.edu.cn  
+WeChat: mh201707201711  
+QQ: 2814303480  
+Email: houyanmak@whu.edu.cn  
 
