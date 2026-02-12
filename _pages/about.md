@@ -27,8 +27,8 @@ Wuhan University Outstanding Student Scholarship
 About Me
 ---
 Citizen: The People's Republic of China  
-Language: English(IELTS Band 6.5), Mandarin(Native), Cantonese(Native)  
-Visa: US(B1/B2 until 2036)  
+Language: English (IELTS Band 6.5), Mandarin (Native), Cantonese (Native)  
+Visa: US (B1/B2 until 2036)  
 
 Contact
 ---
