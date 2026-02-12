@@ -25,7 +25,7 @@ Selected Awards
 * Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023
 * 1st Prize in Guangdong, Chinese Chemistry Olympaid, 2021
 
-About Me
+Personal Information
 ---
 * Citizen: The People's Republic of China  
 * Language: English (IELTS Band 6.5), Mandarin (Native), Cantonese (Native)  
