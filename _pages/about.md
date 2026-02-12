@@ -23,7 +23,7 @@ Previously, I was a full-funded visiting student at HKUST during the summer of 2
 Selected Awards
 ---
 * Blue Moon Scholarship, 2025 
-* 2nd Prize in the National Final, 16th Chinese Mathematics Competition for College Students, 2025   
+* 2nd Prize in the National Final, Chinese Mathematics Competition for College Students, 2025   
 * Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023
 * 1st Prize in Guangdong, Chinese Chemistry Olympaid, 2021
 
