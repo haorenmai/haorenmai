@@ -14,8 +14,8 @@ main:
   - title: "Notes & Slides"
     url: /Notes_and_Slides/
 
-  - title: "Journeys"
-    url: /Journeys/
+  #- title: "Journeys"
+  # url: /Journeys/
 
   #- title: "Talks"
   #  url: /talks/    
