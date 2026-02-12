@@ -20,7 +20,7 @@ Previously, I was a full-funded visiting student at HKUST during the summer of 2
 
 Selected Awards
 ---
-2nd Prize, 16th Chinese Mathematics Competition for College Students  
+2nd Prize in the National Final, 16th Chinese Mathematics Competition for College Students  
 Blue Moon Scholarship  
 Wuhan University Outstanding Student Scholarship  
 
