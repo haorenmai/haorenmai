@@ -20,19 +20,20 @@ Previously, I was a full-funded visiting student at HKUST during the summer of 2
 
 Selected Awards
 ---
-2nd Prize in the National Final, 16th Chinese Mathematics Competition for College Students  
-Blue Moon Scholarship  
-Wuhan University Outstanding Student Scholarship  
+* Blue Moon Scholarship, 2025 
+* 2nd Prize in the National Final, 16th Chinese Mathematics Competition for College Students, 2025   
+* Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023
+* 1st Prize in Guangdong, Chinese Chemistry Olympaid, 2021
 
 About Me
 ---
-Citizen: The People's Republic of China  
-Language: English (IELTS Band 6.5), Mandarin (Native), Cantonese (Native)  
-Visa: US (B1/B2 until 2036)  
+* Citizen: The People's Republic of China  
+* Language: English (IELTS Band 6.5), Mandarin (Native), Cantonese (Native)  
+* Visa: US (B1/B2 until 2036)  
 
 Contact
 ---
-WeChat: mh201707201711  
-QQ: 2814303480  
-Email: houyanmak@whu.edu.cn  
+* WeChat: mh201707201711  
+* QQ: 2814303480  
+* Email: houyanmak@whu.edu.cn  
 
