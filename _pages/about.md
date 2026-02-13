@@ -16,7 +16,7 @@ Biography
 ---
 I am currently a fourth-year undergraduate student in the School of Mathematics and Statistics at Wuhan University, with a GPA of 3.94/4.00, ranking 2/252.  
 
-My research currently focuses on deep learning optimizers, and I have been dedicated to find the truth behind deep learning optimizers, developing a unified theory for deep learning optimizers, and design advanced optimizers.
+My research currently focuses on deep learning optimizers, and I have been dedicated to find the truth behind deep learning optimizers, develop a unified theory for deep learning optimizers, and design advanced optimizers.
 
 Previously, I was a full-funded visiting student at HKUST during the summer of 2025.
 
