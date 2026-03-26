@@ -14,7 +14,7 @@ redirect_from:
 
 Biography
 ---
-I am currently a fourth-year undergraduate student in the School of Mathematics and Statistics at Wuhan University, with a GPA of 3.94/4.00, ranking 2/252.  
+I am currently an incoming PhD student under the supervision of [Professor Jian-Feng Cai](https://www.math.hkust.edu.hk/~jfcai/) at the Hong Kong University of Science and Technology, and a fourth-year undergraduate student in the School of Mathematics and Statistics at Wuhan University, with a GPA of 3.94/4.00, ranking 2/252.  
 
 My research currently focuses on deep learning optimizers, and I have been dedicated to find the truth behind deep learning optimizers, develop a unified theory for deep learning optimizers, and design advanced optimizers.
 
